@@ -7,6 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🔭 I’m currently working on [E-commerce website](https://github.com/Ravigitacc87/E-commerce-site-project)
+
+- 🌱 I’m currently learning **Nodejs**
+
 - 📫 How to reach me **22bsc10087@cuchd.in**
 
 <h3 align="left">Connect with me:</h3>
@@ -14,6 +18,7 @@
 <a href="https://linkedin.com/in/inravikr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="inravikr" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100007918605520" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100007918605520" height="30" width="40" /></a>
 <a href="https://instagram.com/ravi_singh.official_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ravi_singh.official_" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/https://www.hackerrank.com/profile/22bsc10087" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/profile/22bsc10087" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
