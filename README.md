@@ -14,7 +14,7 @@
   ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me...  
 
 ```javascript
-const bouchraAkl = {
+const Ravigitacc87 = {
   pronouns: "He" | "Him",
   nationality: ["Indian"],
   interests: ['Full Stack Development', 'Front-end Development'],
