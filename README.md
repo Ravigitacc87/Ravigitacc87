@@ -28,4 +28,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravigitacc87&&theme=tokyonight" alt="ravigitacc87" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravigitacc87&theme=tokyonight" alt="ravigitacc87" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravigitacc87&theme=shadow_green" alt="ravigitacc87" /></a> </p>
