@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ravi kumar</h1>
 <h3 align="center">A passionate frontend developer and Backend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravigitacc87&label=Profile%20views&color=0e75b6&style=flat" alt="ravigitacc87" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravigitacc87&label=Profile%20views&color=0e75b6&style=flat" alt="ravigitacc87" /> <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="visitor badge"/></p>
 <p align="right"><a href="https://lottie.host/be86a921-cc0d-40bc-a7fe-11abd67f4568/F39vXGPzMF.json"></a></p>
 
 
