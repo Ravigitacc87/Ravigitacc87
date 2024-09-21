@@ -15,9 +15,9 @@
 
 ```javascript
 const bouchraAkl = {
-  pronouns: "she" | "her",
-  nationality: ["Brazilian", "Lebanese"],
-  interests: ['Full Stack Development', 'Data Structures & Algorithms', 'Front-end Development'],
+  pronouns: "He" | "Him",
+  nationality: ["Indian"],
+  interests: ['Full Stack Development', 'Front-end Development'],
   motto: 'Pushing boundaries, one commit at a time! ✨'
 }
 ```
