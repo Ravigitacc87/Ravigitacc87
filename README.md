@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ravi kumar</h1>
 <h3 align="center">A passionate frontend developer and Backend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravigitacc87&label=Profile%20views&color=0e75b6&style=flat" alt="ravigitacc87" />
-<p align="right"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="220px"></p> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravigitacc87&label=Profile%20views&color=0e75b6&style=flat" alt="ravigitacc87" /></p>
+<p align="right"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="220px"></p> 
 
 
 - 🔭 I’m currently working on [E-commerce website](https://github.com/Ravigitacc87/E-commerce-site-project)
