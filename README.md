@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ravi kumar</h1>
 <h3 align="center">
 <!--    <a href="https://git.io/typing-svg"> -->
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=A+passionate+frontend+developer+and+Backend+developer+from+India" alt="Typing SVG" /></a></h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=A+passionate+Full+Stack+Developer;+Frontend+developer+and;Backend+developer+from+India" alt="Typing SVG" /></a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravigitacc87&label=Profile%20views&color=0e75b6&style=flat" alt="ravigitacc87" /></p>
 <p align="left"><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="220px">
