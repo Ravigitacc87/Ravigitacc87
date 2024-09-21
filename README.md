@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer and Backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravigitacc87&label=Profile%20views&color=0e75b6&style=flat" alt="ravigitacc87" /> </p>
-<p align="right"><a href="https://icons8.com/illustrations/author/TQQ1qAnr9rn5">Oleg Shcherba</a> from <a href="https://icons8.com/illustrations">Ouch!</a></p>
+<p align="right"><a href="https://icons8.com/illustrations/author/TQQ1qAnr9rn5"></a></p>
 
 
 - 🔭 I’m currently working on [E-commerce website](https://github.com/Ravigitacc87/E-commerce-site-project)
