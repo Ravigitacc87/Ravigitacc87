@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **22bsc10087@cuchd.in**
 
-<p align="right"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="100px"></p>
+<p align="right"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="220px"></p>
   ###  A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 ```javascript
