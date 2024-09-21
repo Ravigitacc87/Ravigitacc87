@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer and Backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravigitacc87&label=Profile%20views&color=0e75b6&style=flat" alt="ravigitacc87" /></p>
-<p align="right"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="220px">
+<p align="left"><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="220px">
 
 
 - 🔭 I’m currently working on [E-commerce website](https://github.com/Ravigitacc87/E-commerce-site-project)
