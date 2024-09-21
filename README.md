@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Nodejs**
 
 - 📫 How to reach me **22bsc10087@cuchd.in**
-
+</p> 
   ###  A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 ```javascript
@@ -21,7 +21,7 @@ const Ravigitacc87 = {
   motto: 'Pushing boundaries, one commit at a time! ✨'
 }
 ```
-</p> 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
