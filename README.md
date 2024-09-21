@@ -11,6 +11,17 @@
 
 - 📫 How to reach me **22bsc10087@cuchd.in**
 
+  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me...  
+
+```javascript
+const bouchraAkl = {
+  pronouns: "she" | "her",
+  nationality: ["Brazilian", "Lebanese"],
+  interests: ['Full Stack Development', 'Data Structures & Algorithms', 'Front-end Development'],
+  motto: 'Pushing boundaries, one commit at a time! ✨'
+}
+```
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/inravikr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="inravikr" height="30" width="40" /></a>
