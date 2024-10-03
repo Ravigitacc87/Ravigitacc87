@@ -1,4 +1,4 @@
-<img border-radius="25px" src="https://github.com/Ravigitacc87/Ravigitacc87/blob/main/webheader1.gif"/>
+<img src="https://github.com/Ravigitacc87/Ravigitacc87/blob/main/webheader1.gif"/>
 <h1 align="center">Hi 👋, I'm Ravi kumar</h1>
 <h3 align="center">
 <!--    <a href="https://git.io/typing-svg"> -->
