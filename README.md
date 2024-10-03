@@ -1,4 +1,4 @@
-<img src="https://github.com/Ravigitacc87/Ravigitacc87/blob/main/webheader1.gif"/>
+<img border-radius="25px" src="https://github.com/Ravigitacc87/Ravigitacc87/blob/main/webheader1.gif"/>
 <h1 align="center">Hi 👋, I'm Ravi kumar</h1>
 <h3 align="center">
 <!--    <a href="https://git.io/typing-svg"> -->
@@ -7,10 +7,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravigitacc87&label=Profile%20views&color=0e75b6&style=flat" alt="ravigitacc87" /></p>
 <p align="left"><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="220px">
 
-
 - 🔭 I’m currently working on [E-commerce website](https://github.com/Ravigitacc87/E-commerce-site-project)
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **Reactjs**
 
 - 📫 How to reach me **22bsc10087@cuchd.in**
 </p> 
