@@ -1,5 +1,5 @@
 <img src="https://github.com/Ravigitacc87/Ravigitacc87/blob/main/webheader1.gif"/>
-<h1 align="center">Hi 👋, I'm Ravi kumar</h1>
+<h1 align="center">Hi 👋, I'm Ravi kumar</h1> 
 <h3 align="center">
 <!--    <a href="https://git.io/typing-svg"> -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=530&lines=A+passionate+Full+Stack+Developer+from+India" alt="Typing SVG" /></a></h3>
